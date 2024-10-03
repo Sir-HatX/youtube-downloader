@@ -22,3 +22,8 @@ Before running the script, you need to install the following software:
 1. **Install `yt-dlp`**:
    ```bash
    pip install yt-dlp
+### Usage
+   ```bash
+   python3 yt_downloader.py
+   ```
+![image](https://github.com/user-attachments/assets/0f379bd9-25fd-4457-8a38-86667eadb782)
